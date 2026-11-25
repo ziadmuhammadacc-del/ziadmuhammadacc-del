@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Ziad 👋
 
-<!--
-**ziadmuhammadacc-del/ziadmuhammadacc-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Accounting graduate interested in Financial Analysis, Financial Reporting, and Data Analytics.
 
-Here are some ideas to get you started:
+## Professional Background
+- B.Com. in Accounting – Beni-Suef University
+- FMVA® – CFI
+- BIDA® – CFI
+- Google Data Analytics Professional Certificate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Financial Analysis:** Financial Modeling, Financial Statement Analysis, Financial Reporting
+- **Excel:** Advanced Excel, Pivot Tables, Power Query
+- **Business Intelligence:** Power BI, Tableau
+- **Data Analysis:** SQL, Python (Pandas)
+- **Accounting:** Accounting Cycle, Financial Statements, Reconciliation
+
+## Featured Projects
+financial modeling, business intelligence, and data analytics projects.
+
+## Contact
+- Email: ziad.muhammad.acc@gmail.com
+- Location: Cairo, Egypt | Open to Relocation
